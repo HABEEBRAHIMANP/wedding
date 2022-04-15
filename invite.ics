@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220511T083000Z
+DTEND:20220512T033000Z
+DTSTAMP:20220415T011813Z
+ORGANIZER;CN=Family:mailto:family12896417443351811454@group.calendar.google
+ .com
+UID:6hh32chgcpi3ebb26phmcb9k74r6ab9p6ssj4b9hcoqm2opncks30opo6s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=support@automaxtools.me;X-NUM-GUESTS=0:mailto:support@automaxtools.
+ me
+X-MICROSOFT-CDO-OWNERAPPTID:-377433456
+CLASS:PUBLIC
+CREATED:20220415T005922Z
+DESCRIPTION:https://habeeb.live/wedding_invitation.html\n\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo
+  not edit this section of the description.\n\nView your event at https://ca
+ lendar.google.com/calendar/event?action=VIEW&eid=NmhoMzJjaGdjcGkzZWJiMjZwaG
+ 1jYjlrNzRyNmFiOXA2c3NqNGI5aGNvcW0yb3BuY2tzMzBvcG82cyBzdXBwb3J0QGF1dG9tYXh0b
+ 29scy5tZQ&tok=NTIjZmFtaWx5MTI4OTY0MTc0NDMzNTE4MTE0NTRAZ3JvdXAuY2FsZW5kYXIuZ
+ 29vZ2xlLmNvbWZlNWMxYWM2ODViY2ZlMDlmNWJkNjc2OTM2ZWRmN2M5MGNkNGRlM2Q&ctz=Asia
+ %2FDubai&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220415T011810Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Habeeb wedding
+TRANSP:OPAQUE
+ATTACH;FILENAME=Photo from HABEEB RAHIMAN P;FMTTYPE=image/jpeg:https://driv
+ e.google.com/file/d/1lSYpB3ppQljzoQYamN4ObwmScmYboALO/view?usp=drivesdk
+ATTACH;FILENAME=Photo from HABEEB RAHIMAN P;FMTTYPE=image/jpeg:https://driv
+ e.google.com/file/d/1lS6mvnLf0s9qd4l2iI7TEqgw6GnI2MxY/view?usp=drivesdk
+END:VEVENT
+END:VCALENDAR
